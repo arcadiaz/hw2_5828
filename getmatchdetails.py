@@ -2,7 +2,7 @@ import requests
 import time
 import os
 
-target_skill_rating = ["NormalSkill/", "HighSkill/", "VeryHighSkill/"]
+target_skill_rating = ["HighSkill/", "VeryHighSkill/"]
 gamemode = ["AllPick/", "CaptainsMode/"]
 lobbytype = ["Public/","SoloMid/", "CoopBot/", "Ranked/"]
 
